@@ -42,3 +42,10 @@ As an example, using a 73 MB PDF from a 55 page Powerpoint presentation, the com
 - 300 dpi average quality : 10.2 MB
 - 600 dpi low quality : 16.0 MB
 - 600 dpi average quality : 20.3 MB
+
+## Note:
+In Lion, the `*.qfilter` files should be copied to the following location: `/Library/Filters`
+
+The filters will **not** show up in Preview if the files are copied to the user's folder `~/Library/Filters`
+
+Alternatively, in Mountain Lion, since there is no `/Library/Filters` folder by default, you can put them in `/Library/PDF Services`
