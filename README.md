@@ -1,3 +1,14 @@
+Installer
+---------
+
+I've created an installer, so it is easy to distribute the filters. The project file `Install reduce file size filters` can be opened with [Packages.app](http://s.sudre.free.fr/Software/Packages/about.html), and created in to a `pkg` file by choosing `Build > Build` (or pressing `cmd+B`). The package is created in the `build`-directory.
+
+You can also [download the ready-made installer](https://github.com/doekman/Apple-Quartz-Filters/releases).
+
+
+Original readme
+---------------
+
 A handful of quartz filters for saving PDFs.
 
 With all due respect to Jerome Colas:
